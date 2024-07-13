@@ -1,0 +1,5 @@
+:regset
+
+%eax,%ebx,%ecx,%edx,%esi,%edi,%esp,%ebp 32
+%eds,%ecs,%ees,%ess 32
+eflags 32
