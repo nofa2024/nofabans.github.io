@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there!&#128075
 > 这是NFBans的项目和资料库，如果有需求，可以通过`致电`17582872606或`致信`nofabans@hotmail.com.
 
 ---
