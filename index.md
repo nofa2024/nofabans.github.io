@@ -4,7 +4,7 @@
 ---
 
 # 项目
-1. [Open-PythonVM](/nofabans.github.io/docs/Open-PythonVM)
+1. [Open-PythonVM](/nofabans.github.io/docs/Open-PythonVM/index.html)
 2. Hermos
 3. VellyDOS for PythonVM
 4. 敬请期待
